@@ -1,0 +1,2301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the French monarchy and absolute power and also a treatise of the three states and their power, deduced from the most authentick histories for above 1200 years / this latter by Mat. Zampini de Recanati, LL.D.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 83 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53205</idno>
+            <idno type="STC">Wing O143</idno>
+            <idno type="STC">ESTC R218129</idno>
+            <idno type="EEBO-CITATION">31360680</idno>
+            <idno type="OCLC">ocm 31360680</idno>
+            <idno type="VID">110769</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110769)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1750:19 or 1982:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the French monarchy and absolute power and also a treatise of the three states and their power, deduced from the most authentick histories for above 1200 years / this latter by Mat. Zampini de Recanati, LL.D.</title>
+                  <author>Zampini, Matteo, fl. 1580.</author>
+               </titleStmt>
+               <extent>[2], 71, [1]; [8], 47, p.50, 65-160 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year MDCLXXX [1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and tightly bound, with loss of text; second part lacking.</note>
+                  <note>The second part, Zampini, A treatise of the three states ... lacking on film. It may be found, filmed and cataloged separately as Wing (2nd ed.) Z6 at reel 1982:20.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  Constitutional history.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110769:1" rendition="simple:additions"/>
+            <p>OF THE French Monarchy: AND Abſolute Power.</p>
+            <p>And alſo A TREATISE Of the Three States, AND Their POWER.</p>
+            <p>Deduced from the moſt Authentick Hiſtories, for above 1200 years: and digeſted: This latter,</p>
+            <p>By <hi>Mat. Zampini de Recanati,</hi> LL. D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCLXXX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110769:2" rendition="simple:additions"/>
+            <pb facs="tcp:110769:3" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:110769:3"/>
+            <head>A DISCOURSE Concerning the French MONARCHY AND ABSOLUTE POWER.</head>
+            <p>WHen the Roman Empire went to wrack, all the Provinces were drain'd, all the Inhabitants fit for Arms carried away for Recruits to ſup<g ref="char:EOLhyphen"/>port it: By theſe means the Provinces were left expoſed to the violence and in<g ref="char:EOLhyphen"/>vaſion of Strangers, which gave occa<g ref="char:EOLhyphen"/>ſion
+<pb n="2" facs="tcp:110769:4"/>to the many turns and changes in theſe parts of the world. Thus the Sa<g ref="char:EOLhyphen"/>xons or Engliſh became Maſters of <hi>Bri<g ref="char:EOLhyphen"/>tain,</hi> and the French (another people of <hi>Germany</hi>) took that opportunity to ad<g ref="char:EOLhyphen"/>vance beyond their borders, and puſh on their advantage till they got poſſeſ<g ref="char:EOLhyphen"/>ſion of all the fair Territory; and the very name of Gauls was ſwallowed up by them; and henceforward <hi>Britain</hi> and <hi>Gaul</hi> began now to be called <hi>England</hi> and <hi>France.</hi>
+            </p>
+            <p>As with us grew ſeveral diſtinctions (from our ſituation) of <hi>Northfolk, South<g ref="char:EOLhyphen"/>folk, Eaſtſex, Southſex;</hi> ſo the French were divided into Eaſtrians and Weſtri<g ref="char:EOLhyphen"/>ans: The Country where the former liv'd, by ſome corruption was named <hi>Auſtraſia,</hi> and this other <hi>Newſtria;</hi> till ſuch time as the Danes growing trouble<g ref="char:EOLhyphen"/>ſome to their Neighbours, part of them overran <hi>England,</hi> and another Band of them that they called Northmans, ſub<g ref="char:EOLhyphen"/>dued <hi>France;</hi> and after much buſtle ſeat<g ref="char:EOLhyphen"/>ed themſelves in <hi>Newſtria,</hi> which from thence took the name of <hi>Normandy.</hi>
+            </p>
+            <p>How long theſe French, after they
+<pb n="3" facs="tcp:110769:4"/>were thus tranſplanted retain'd their <hi>German</hi> liberty, I ſhall not now examine; only I find ſome of their Authors look askue upon the Court of <hi>Rome</hi> on that occaſion; they had complained that their Language grew Italianiz'd, their man<g ref="char:EOLhyphen"/>ners Italianiz'd: But when the Pope came to keep his Court at <hi>Avignon,</hi> new Phraſes and new Forms crept alſo into their policy. Then came in faſhion thoſe Letters <hi>du propre monuement, &amp;c.</hi> which that man of Morals, <hi>Monſieur Pi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rach</hi> could ſo ill digeſt.</p>
+            <q>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e hay les mots de puiſſance abſolüe,</l>
+               <l>De plain pouuoir, de propre mouuement;</l>
+               <l>Aux Saints decrets ils ont premierement,</l>
+               <l>Puis a nos loix la puiſſance tollüe.</l>
+            </q>
+            <p>The Pope firſt employed them to <hi>ren<g ref="char:EOLhyphen"/>der the Laws of</hi> the <hi>Church of no effect.</hi>
+            </p>
+            <p>Their Champions for <hi>Abſolute Power</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cknowledge, that the King is tyed to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orms; that his Commands will not move <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut in the proper Channel; that the Kings letters have not any force or verture <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nleſs they be underſign'd by a Secretary
+<pb n="4" facs="tcp:110769:5"/>of State; nor his Letters Patents, unleſs<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they be ſo ſign'd; and then ſealed by the Chancellor, who has it in his power to cancel them, &amp; who ſeals them not with<g ref="char:EOLhyphen"/>out the advice of one or two Maſters of the Requeſts aſſiſting at the Seal; &amp; who is, as it were, a ſevere Controuler of the Kings orders, edicts, wills, commands, &amp; grants. But ſay they — ni du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pape meſme n'ont aucune vertu ſi elles no font ſigneés par le greffier,<note place="margin">
+                  <hi>Baracane</hi> de<g ref="char:EOLhyphen"/>fence de la Mo<g ref="char:EOLhyphen"/>narchy, Fr. p. <hi>409.</hi>
+               </note> Secretaire, ou dataire ſeelées par le ſeelleur, Gardeſaux ou Chancellier, quoy pour cela? C'eſt or<g ref="char:EOLhyphen"/>dre a eſté ſagement eſtabli par tous les Princes' &amp; ſeigneurs, tant ſpirituels, que temporels, pour ſe garantir des ſurprin<g ref="char:EOLhyphen"/>ſes &amp; obvier aux fauſſetez. Il eſt plus malaiſe de contrefaire deux' ſeings, &amp; falſifier un ſeau, que d'en contrefaire un ſeulement. Le ſecretaire d'eſtat, ou de la coronne ne ſignera jamais aucunes lettres, ſi le Roy ne luy commande; &amp; les lettres, qui ſuivant les Ordonnances du Roy, doivent eſtre ſigneés par un ſe<g ref="char:EOLhyphen"/>cretaire d'eſtat, ne paſſeront point au ſeau, ſi elles ne ſont munies du ſeing du
+<pb n="5" facs="tcp:110769:5"/>Secretaire, &amp; ſi elles ſont contraires a la <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olunté du Roy, exprimeé par ſes Edicts &amp; Ordonnances, le Chancellier ne les ſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llera point, que premierement il n'en <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ye averti le Roy, tout cela en un mot <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end au ſervice du Roy: Et de le vouloir <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enverſer contre le Roy, c'eſt tourner la <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umiere en tenebres, convertir le feu en glance, &amp; mettre la terre par deſſus le ciel. <hi>Neither have the Letters of the Pope him<g ref="char:EOLhyphen"/>ſelf any vertue, if they be not ſigned by the Clerk, Secretary, or Dators; and ſealed by the Sealer, Sealkeeper, or Chancellor: What of all this? This order has been wiſe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſettled by all Princes and Lords as well ſpiritual as temporal, to ſecure them againſt ſurpriſes, and to prevent forgeries; it be<g ref="char:EOLhyphen"/>ing more difficult to counterfeit two Sign<g ref="char:EOLhyphen"/>ings and one Seal, than if there were but one hand to be forged. The Secretary of State ſhall never ſign any Letters unleſs the King command him, and they ſhall ne<g ref="char:EOLhyphen"/>ver come to the Seal, unleſs they be fortifi<g ref="char:EOLhyphen"/>ed with the ſigning of the Secretary; and if they be contrary to the Kings Will expreſſed in his Laws, the Chancellor ſhall never ſeal them, till he has advertifed the King there<g ref="char:EOLhyphen"/>of.
+<pb n="4" facs="tcp:110769:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:110769:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:110769:7"/>All this, in a word, is for the Kings ſervice; and to count this a leſſening of the King, is to turn light into dark<g ref="char:EOLhyphen"/>neſs, fire into ice, and to ſet earth above heaven.</hi>
+            </p>
+            <p>Then for the power which the Par<g ref="char:EOLhyphen"/>liament ſeems to exerciſe in approv<g ref="char:EOLhyphen"/>ing or refuſing any publick Acts, Grants, Orders, Officers, <hi>&amp;c.</hi> made by the King: This makes no Argument a<g ref="char:EOLhyphen"/>gainſt his <hi>Abſolute Power,</hi> the ſame Do<g ref="char:EOLhyphen"/>ctor tells us; Qu'il eſt neceſſaire qu'elles ſoient ſolennellement reconues, enregi<g ref="char:EOLhyphen"/>ſtrees, &amp; publieés, pour eviter les obre<g ref="char:EOLhyphen"/>ptions, ſubreptions, &amp; ſurprinſes qui pourroient eſcheoir en l'impetration des lettres, des officés, &amp; des autres; &amp; meſmes pour vuider les oppoſitions qui peuuent eſtre formeés par ceux qui y pretendont quelque intereſt. Auquel le Roy n'entend deroger, ſi n'en eſt fait expreſſe mention dans icelles; &amp; pour ces cauſes telles lettres ſont preſenteés ou Parlement, avant que les pourveus des Offices entrent en l'exerciſe ou iouiſſance d'iceux, &amp; quant le Parlement juge, y avoir eu de la ſubreption &amp; obreption ou
+<pb n="7" facs="tcp:110769:7"/>de la trop grande importunité en l'im<g ref="char:EOLhyphen"/>petration d'icélles, &amp; que l'execution en ſeroit prejudiciable au ſervice du Roy &amp; du publique, il refuſe de les enregiſtrer, &amp; donne advis au Roy des cauſes du re<g ref="char:EOLhyphen"/>fus, fondeés ſur ſon ſervice, d'ont il eſt bien aiſe, encore que quelquefois il face ſemblant a l'impetrant d'icélles en eſtre marri—<hi>That it is neceſſary they be ſolemn<g ref="char:EOLhyphen"/>ly approved, recorded, and publiſhed, to avoid obreptions, ſurreptions, ſurpriſes, and all the fraud and foul practiſe that might have been uſed in obtaining thoſe Letters, Offices, or other Grants; as alſo to avoid the oppoſitions of thoſe who pretend ſome right or intereſt, which the King in<g ref="char:EOLhyphen"/>tends not to prejudice, unleſs expreſs men<g ref="char:EOLhyphen"/>tion be made thereof; and for theſe cauſes ſuch Letters are preſented to the Parlia<g ref="char:EOLhyphen"/>ment, before any who have the grant of Offices, are admitted to the exerciſe or poſ<g ref="char:EOLhyphen"/>ſeſſion of them. And when the Parliament judges that any fraud or foul means had been practis'd, or too great importunity us'd in obtaining them, and that the execution of ſuch Grants might be prejudicial to the ſervice of the King and of the Publick,
+<pb n="8" facs="tcp:110769:8"/>then d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es the Parliament refuſe to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them, and makes the King acquainted <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the cauſes of their refuſal founded upon his ſervice; whereat he is right glad, though ſometimes to him who had the Grant, he makes a ſhow as if he were vext.</hi>
+            </p>
+            <p>All agree the matter of fact, but how the King is thus bound, and how this tye lyes upon him they want language ſoft enough for an occaſion ſo tender: <hi>It has always ſo been,</hi> de toute l'ancienneté, ſays one; <hi>antiquâ conſuetudine,</hi> ſays another; their Kings have always had the <hi>wiſdom</hi> to ſubmit to theſe forms, ſays <hi>Baracaue:</hi> the <hi>modeſty</hi> ſays <hi>du Tillet,</hi> the <hi>good Na<g ref="char:EOLhyphen"/>ture</hi> ſays <hi>P'aſquier, une debonnaireté, a goodneſs familiar to 'em, to reduce their wills under the civility of law</hi> Some call it a <hi>magnanimity Royal and becoming a King, and a glory beyond that of conquering Na<g ref="char:EOLhyphen"/>tions. Bodin</hi> (from the Civilians) aſ<g ref="char:EOLhyphen"/>cribes it to their <hi>humanity. See id tamen<g ref="char:EOLhyphen"/>ſenatu probante fieri humanum eſt,</hi> ſays <hi>Theod<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſius;</hi> which <hi>Baldus</hi> interprets, <hi>non tam neceſſitatis quam humanitatis:</hi> and to their <hi>Majeſty; Digna vox eſt Majeſtate regnantis legibus alligatum principem ſe
+<pb n="9" facs="tcp:110769:8"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rofiteri;</hi> to do otherwiſe would be a <hi>Levi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and <hi>Vanity,</hi> as he cites it from the Sena<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or in <hi>Livy Levius eſt &amp; vanius ſua decre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a tollere quam aliorum:</hi> Others venture to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o a little farther, they ſays <hi>Paſquire,</hi> who <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder the pretence of an <hi>Abſolute Power,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould flatter the Kings to be above law. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n lieu de leur gratifier dirent en un ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cur language, que les Roys n'eſtoyent <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oint hommes, ains lyons, qui par le moy<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n de leur force s'eſtimoyent avoir Com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>andment <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur les hommes. <hi>Inſtead of ſay<g ref="char:EOLhyphen"/>ing a grateful thing ſay be craft that Kings <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re not men but lyons, who think by their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ight to have the command over men.</hi> ſays <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u Tillet,</hi> Si leur puiſſance abſolue n'yeſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egleé, elle devient diſſolüe: <hi>If it be not re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulated, their power is not abſolute but diſſo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ute:</hi> And a Spaniſh Treatiſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Politicks,<note place="margin">Iron de ſanta Maria.</note> with twenty ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>robations before it, affirms: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i el monarca ſea quien fuere, ſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſoluiere por ſola ſu cabeça, ſin <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cudir a ſu conſeio, o contra el parecer <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſus conſeieros, aunque acierte en ſu <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſolution, ſale de los terminos de la mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arquia, y ſe entra en los de la tyrannia.
+<pb n="10" facs="tcp:110769:9"/>
+               <hi>If a Monarch whoe're he be, ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his own head reſolve any thing with<g ref="char:EOLhyphen"/>out the advice of his Council, or con<g ref="char:EOLhyphen"/>trary to the opinion of his Counſel<g ref="char:EOLhyphen"/>lors, though right in his reſolution; h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> breaks out over the bounds of Monarch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into Tyranny.</hi>
+            </p>
+            <p>This Spaniard took his notion from that paſſage in <hi>Livy,</hi> where he gives a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> account, how <hi>the laſt</hi> Tarquin <hi>was the fir<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of their Kings that without adviſing wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any other than a Cabal of his Domeſtick<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> make peace and war, made and broke League<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Alliances, and govern'd all of his own head, never conſulting the Senate and Peo<g ref="char:EOLhyphen"/>ple, as the cuſtom of his Predeceſſors ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> always been, having firſt by practices leſſen'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the number of the Senators (that nothing<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but the Rump of a Senate remain'd) to make them the more contemptible.</hi> Quo con<g ref="char:EOLhyphen"/>temptior paucitate ipſâ ordo eſſet, mi<g ref="char:EOLhyphen"/>nuſque per ſe nihil agi indignarentur, hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enim Regum primus traditum a priori<g ref="char:EOLhyphen"/>bus morem de omnibus ſenatum conſu<g ref="char:EOLhyphen"/>lendi ſolvit; domeſticis conſiliis rem<g ref="char:EOLhyphen"/>publicam adminiſtravit, bellum, pacem, foedera ſocietates per ſe ipſe cum quibus
+<pb n="11" facs="tcp:110769:9"/>voluit injuſſu populi &amp; Senatus fecit dire<g ref="char:EOLhyphen"/>mitque.</p>
+            <p>But I have digreſſed from the French or rather from <hi>Bodin,</hi> who concerns us nearer; having ſet up for a new diſco<g ref="char:EOLhyphen"/>verer in Politicks: He would perſwade us that <hi>Plato, Ariſtotle, Polybius, Hali<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arnaſſaus, Cicero,</hi> Sr. <hi>Tho. Moor,</hi> Cardi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al <hi>Contarini, Machiavel,</hi> and who not, were all in a wrong way — Et quoni<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m haec diſciplina maximos in republica <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umultus ac perturbationes ciere poteſt, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccuratius uobis eſt ac ſubtilius explican<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a. <hi>Their Doctrine tended to Sedition <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd diſturbances in the Common-wealth, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herefore he will handle it with the greater <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccuracy and ſubtlety:</hi> And what will be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he conſequences of <hi>Bodin</hi>'s new learn<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng? Certainly it muſt either make Mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>archy ſhort liv'd, by debauching it into <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yranny; or elſe it muſt (as Mr. <hi>Hobbs</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho ſees farther, and who writes En<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liſh, clears the matter) to eſtabliſh this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yranny, baniſh all humane Learning <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd fear of God out of the world.</p>
+            <p>There have been in all Nations Pens, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s well as Voices, ſervile and mercenary;
+<pb n="12" facs="tcp:110769:10"/>and ſuch wretches, as that by <hi>Virgil</hi> damn'd to Hell.</p>
+            <q>
+               <l>Vendidit hic auro patriam, dominumque potentem</l>
+               <l>Impoſuit, leges fixit pretio atque refixit.</l>
+            </q>
+            <p>
+               <hi>Who make and unmake Laws, ſhuffle and betray both their Laws and Reaſon, that they may impoſe this</hi> dominum poten<g ref="char:EOLhyphen"/>tem, <hi>this Lordly deſpotick power,</hi> to the enſlaving of their Country.</p>
+            <p>But whether the love of Novelty cor<g ref="char:EOLhyphen"/>rupted <hi>Bodin,</hi> or that he knew no better I examine not: But though our Engliſh Politicians have followed him over hedg and ditch, without ever making uſe of their own eyes or underſtanding; other people do not overmuch admire him; the <hi>Scaligerana</hi> are too ſharp upon him; but that<note n="(a)" place="margin">Charamonte.</note> Italian does him reaſon, <hi>Il</hi> Bodino <hi>huomo di molta lectura, ma di confuſa &amp; turbida do<g ref="char:EOLhyphen"/>ctrina, impugnando da per tutto quaſi la politica doctrina</hi> d'Ariſtotele: Bodin (ſays he) <hi>a man of much reading, but confound<g ref="char:EOLhyphen"/>ed and blunder'd in his Notions, con<g ref="char:EOLhyphen"/>tradicting</hi>
+               <pb n="13" facs="tcp:110769:10"/>Ariſtotle <hi>at every turn.</hi>
+            </p>
+            <p>Now <hi>Bodin</hi> would have us believe that <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>here can be no ſuch thing as a <hi>mixt Com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on-wealth,</hi> nor will he allow be any <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nore thann <hi>three ſorts</hi> of Common-wealths. <hi>Nam ſi rerumpublicarum for<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>as bonorum ac malorum finibus, aut vir<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>utibus ac vitiis metimur, infinitas eſſe com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eriemus:</hi> And a little after he ſays, <hi>non <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uae cuique extrinſecus accidunt intueri o<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ortet.</hi>
+            </p>
+            <p>By the way we may note, that the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ertues have by the moſt been reckon'd <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o be four, others have reduc'd 'em all <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o <hi>Prudence, Sincerity,</hi> and <hi>Patience;</hi> ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Common-wealths might have been diſtinguiſhed by their virtues, without making ſuch an infinite number of them; and to make ſeveral forms from their ſe<g ref="char:EOLhyphen"/>veral ends, will certainly prove not ſo very <hi>extrinſecal and accidental,</hi> but a <hi>real</hi> and <hi>eſſential</hi> difference. So thought the <hi>Ancients</hi> all who writ of Politicks before <hi>Bodin;</hi> therefore if a <hi>ſingle Perſon</hi> go<g ref="char:EOLhyphen"/>verned for the <hi>good</hi> of the <hi>Publick,</hi> that was called Monarchy; if a <hi>few</hi> governed for the <hi>Publick Good,</hi> that they called A<g ref="char:EOLhyphen"/>riſtocracy;
+<pb n="14" facs="tcp:110769:11"/>if the <hi>People</hi> governed for the <hi>Publick Good,</hi> that was Demo<g ref="char:EOLhyphen"/>cracy; and theſe were counted three ſorts of good Common-wealths. But if a <hi>ſingle Perſon</hi> governed for his <hi>own par<g ref="char:EOLhyphen"/>ticular good,</hi> that they would not call Mo<g ref="char:EOLhyphen"/>narchy but Tyranny; if a <hi>few</hi> governed for their <hi>particular profit,</hi> that they would not call Ariſtocracy but Oligarchy; if the <hi>People</hi> governed for the <hi>advantage</hi> of the <hi>Rabble,</hi> and not for the <hi>common bene<g ref="char:EOLhyphen"/>fit,</hi> this they would not call Democracy, but Oclocracy, or the <hi>miſrule of the Rab<g ref="char:EOLhyphen"/>ble.</hi> The Greeks I ſay, who coin'd theſe words, made that the currant meaning of them.</p>
+            <p>There are Authors, who to make ſhort work, divide all Common-wealths into <hi>Monarchy</hi> and <hi>Polyarchy:</hi> Either, ſay they, <hi>one</hi> governs and that is Monar<g ref="char:EOLhyphen"/>chy; or <hi>more than one</hi> (no matter whether few or many) govern, and then it is a Poliarchy. They who love the diviſion into two, might better ſay that all go<g ref="char:EOLhyphen"/>vernment is either for the Governors good, and that is Tyranny; or for the good of thoſe that are governed, and this
+<pb n="15" facs="tcp:110769:11"/>is a Polity or Common-wealth. But theſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>ſick mens dreams;</hi> may ſhew however <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at the <hi>End</hi> is more material than the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umber</hi> of thoſe that govern, and con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>quently juſtifies the Ancients, who di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nguiſhing the Common-wealths from <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir <hi>End,</hi> reckoned ſix ſeveral kinds of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ple Common-wealths, as afore has <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en declared. And humane Actions are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſtinguiſhed; the ſame Action may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vertuous or vitious according to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d: Give a Wench mony to debauch <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r, and give it her to relieve her neceſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ies; this is charity, this a vertue, but <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e other is a kind of a deadly ſin: 'Tis <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>End</hi> makes the difference, a differ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce not <hi>accidental</hi> and extrinſecal, as <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>din</hi> ſuggeſts, but <hi>real</hi> and <hi>eſſential.</hi>
+            </p>
+            <p>And as high Juſtice greates upon the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rders of wrong and oppreſſion, high <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>urage is near to raſhneſs, liberality to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>odigality, <hi>&amp;c.</hi> ſo does Monarchy ſtand <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on the brinks of Tyranny, Ariſtocra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> eaſily ſlips into Oligarchy, and De<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ocracy into popular diſorder: There<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re the wiſer Stateſmen having obſerv'd <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is corruption ſo ordinary and familiar
+<pb n="16" facs="tcp:110769:12"/>to the ſimple Common-wealths, have by art endeavoured of the three good Common-wealths, to compound a <hi>mixt one</hi> that might not be ſubject to the ſame frailties and decay; to temper Monarchy and give it that balance and counterpoiſe by the mixture of the other Common-wealths with it, which might keep i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſteddy, and preſerve it from tottering into Tyranny, which is its ruin. But al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe matters together with the <hi>growth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the <hi>decay,</hi> and <hi>changes</hi> of Government<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are deſcrib'd by that companion of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great <hi>Scipio Polibius,</hi> ſo accurately and philoſophically, that I cannot forbear to ſet down the whole paſſage, which is t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this effect. That, <hi>Man is naturally civil and diſpoſed to love company, and not</hi> (a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they would perſwade us to believe, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay the State of Nature is a State of War<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>more a beaſt than thoſe that walk on fou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> feet, than the Bruits themſelves that go i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Flocks and Herds; and in like manner <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſtrongeſt Bore, and the ſtrongeſt Bull <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> always the Captain of the reſt; ſo in theſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> companies of men, he amongſt them wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was moſt hardy to encounter dangers, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:110769:12"/>had moſt of bodily ſtrength to overcome <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em, had the reſt for his followers: And <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ence it was that ſo many Nations had <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch their</hi> Hercules, <hi>and that ſo many <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne to be called by that name: And in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oſe rude times theſe were the firſt ſort of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ings.</hi>
+            </p>
+            <p>
+               <hi>But by converſing together this rudeneſs <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aring off by degrees, and men by little <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d little coming to be ſomewhat more po<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t, to have ſomething of conſideration, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d the uſe of their reaſon, and to under<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nd Juſtice and honeſt dealing, and to ſee <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> advantages that Prudence and a wiſe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d had over raw uncultivated ſtrength, not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly in deciding Controverſies and admini<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing Juſtice, but even in providing a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>inſt and repelling of dangers. He there<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e now, who was moſt eminent for wiſdom <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d juſtice, drew moſt eyes upon him, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him all ran and ſubmitted their differ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ces to his Arbitration, his advice they <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k, and his direction they followed on all <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>aſions either of difficulty or danger; and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſe were called the</hi> Wiſe Men, <hi>and theſe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>re the true and proper Kings.</hi>
+            </p>
+            <p>
+               <hi>Now the Son, who had his Education
+<pb n="18" facs="tcp:110769:13"/>under ſuch a vertuous, wiſe Father, and had been preſent with him when affairs of the greateſt importance had been debated and by common preſumption better capaci<g ref="char:EOLhyphen"/>tated to govern, than any of a ſtranger Fa<g ref="char:EOLhyphen"/>mily: The Son, I ſay, ſucceeds his Father in this Kingly Government, no man envy<g ref="char:EOLhyphen"/>ing him the dignity; nor did theſe King<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> differ from other people in their manner of living, there was no pomp or ſhew, or an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> badge of the Authority Royal, but the woode<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Scepter which</hi> Homer <hi>deſcribes,</hi> (which perhaps was like our Conſtables Staff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>and with this the Authority was hande<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> down from Father to Son, till in tract o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> time ſome young man came in place, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> giving ear to ſome looſe companions abo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him, would not longer be content with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> plainneſs and ordinary fare of his Anceſtor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but gives himſelf over to riot and exceſs ſetting his mind on gorgeous Apparel, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Trains and Trappings, on Feaſting an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Revels: By theſe new modes he loſes th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hearts of his Subjects, draws envy upo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him; that Reverence paid to the Scepter i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the hands of his Progenitors, now turns i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to contempt, and he ſtill running headlon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:110769:13"/>after his vain pleaſures and flanting perni<g ref="char:EOLhyphen"/>cious courſes, not heeding the duty of his place, grows a burthen to the people; and inſtead of being their refuge, their relief and ſupport, rides and galls their necks, and makes their lives bitter: So that how to throw off the yoak is now their only care; and matters being thus ripe, or the young Prince with his Comerades haſtening on his fate by ſome outrage or rape upon Wife or Daughter of ſome conſiderable Subject, ſome of the moſt eminent amongſt the people con<g ref="char:EOLhyphen"/>ſpire together and put an end to his Life and Tyranny.</hi>
+            </p>
+            <p>
+               <hi>And all eyes being now turn'd upon theſe as their deliverers, the Government and Conduct of all Affairs is committed to their charge and direction. Thus riſes an Ari<g ref="char:EOLhyphen"/>ſtocracy, and thus we ſee Monarchy firſt cor<g ref="char:EOLhyphen"/>rupted into Tyranny, and the next change from thence in courſe of Nature is to an A<g ref="char:EOLhyphen"/>riſtocracy.</hi>
+            </p>
+            <p>
+               <hi>And theſe men eminent for wiſdom and vertue ſatisfied with the honour of the charge and truſt repoſed in them, above all things ſtudied to ſerve the publick; but afterwards their Sons coming to ſucceed, who had not
+<pb n="20" facs="tcp:110769:14"/>that ſtock of diſcretion and ſobriety; but degenerating or forgetting the vertue that preferred their Anceſtors, begin to Lord it over the people without other regard than of their particular luſt. And thus the Ari<g ref="char:EOLhyphen"/>ſtocracy being corrupted into an Oligarchy, the people are provoked by a general inſur<g ref="char:EOLhyphen"/>rection to reſcue the Soveraignty out of their hands.</hi>
+            </p>
+            <p>
+               <hi>And now the people will neither truſt ſo great a charge with a ſingle Perſon, nor with any few, they come to their laſt only and yet untainted hope founded upon themſelves, and contriv'd a form of popular Common-wealth, and they themſelues took the pub<g ref="char:EOLhyphen"/>lick affairs under their charge and protecti<g ref="char:EOLhyphen"/>on; and thus was conſtituted a Democracy.</hi>
+            </p>
+            <p>
+               <hi>And becauſe all Governments are good and ſucceſsful at the beginning, ſo long as the men were alive, who had felt the oppreſ<g ref="char:EOLhyphen"/>ſion and tyranny under the two former kinds of Governments, they were content and glad with their preſent condition, and liberty ſeem'd ſweet and precious to 'em above all treaſure. but this Generation being ſpent and their vertue with 'em, a new People ſucceeded, and the Laws are now trampled
+<pb n="21" facs="tcp:110769:14"/>under foot: Licentiouſneſs, Faction, and Diſorder turn all things upſide down, and they claſh together ſo long till ſome one over-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>opping the reſt, all are brought under the Command of one Maſter; and ſo about a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain from Monarchy to Tyranny, from Ty<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anny to Ariſtocracy, from Ariſtocracy to Oligarchy, from Oligarchy to Democracy, from Democracy to the Rule of the Rabble, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd thence back to Monarchy. This is the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound that all Governments run, this is the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ourſe, the order, and oeconomy of Nature; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that any turns or change of Government <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay eaſily be foreſeen.</hi>
+            </p>
+            <p>
+               <hi>Wiſe Stateſmen obſerving theſe changes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd corruptions in all ſimple Common-wealths to be ſo conſtant and certain, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nding the miſchiefs that attend ſo frequent <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evolutions; they ſet their brains at work <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> contrive ſome model of Government that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight be ſteddy and durable, which they ſaw <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould not be any ſimple and uniform Com<g ref="char:EOLhyphen"/>mon-wealth: It remain'd therefore that they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ixed the vertues and good properties of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hree good Common-wealths, and ſo tem<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er'd them together that no room might be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ft for thoſe vices, that, like worms, breed
+<pb n="22" facs="tcp:110769:15"/>in the very core of all ſimple Common-wealths and deſtroy them.</hi>
+            </p>
+            <p>
+               <hi>They joyn'd the three States of Monar<g ref="char:EOLhyphen"/>chy, Ariſtocracy, and Democracy, and wrought them together into one Body Po<g ref="char:EOLhyphen"/>litick.</hi>
+            </p>
+            <p>
+               <hi>This model of Government had the Spar<g ref="char:EOLhyphen"/>tans from the prudence of</hi> Lycurgus, <hi>and the Romans were brought to it, made wiſe by dear-bought Experience:</hi> And this is the Government that all civil Nations have affected, and from hence grows that notion of the <hi>three States,</hi> which we hear ſo much of in moſt Nati<g ref="char:EOLhyphen"/>ons of <hi>Europe,</hi> though the meaning there<g ref="char:EOLhyphen"/>of is not every where underſtood.</p>
+            <p>This is the Doctrine of <hi>Polybius,</hi> and this was the general ſenſe of mankind, till <hi>Bo<g ref="char:EOLhyphen"/>din</hi> comes forth with his new <hi>Hereſie</hi> in Politicks, and denies that there can be any ſuch thing as a <hi>mixt</hi> Common-wealth. To prove this, he rambles into a many ſtories to ſhew that a King cannot <hi>alien</hi> or <hi>divide</hi> his Soveraignty amongſt his Favourites: 'Tis queſtionleſs a truſt that cannot be aſſigned over, but all this re<g ref="char:EOLhyphen"/>lates to another point, and touches not
+<pb n="23" facs="tcp:110769:15"/>the <hi>mixture</hi> in the Original and funda<g ref="char:EOLhyphen"/>mental conſtitution of a Common-wealth, <hi>Et ut Corona, ſi in partes diſtra<g ref="char:EOLhyphen"/>cta, aut aperta fuerit, nomen omittit; As the Crown would loſe its name,</hi> he ſays, <hi>if pull'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n pieces.</hi> This is common to many o<g ref="char:EOLhyphen"/>ther things, a Roſe, a Prickle, if pull'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n pieces, would loſe their name; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his being no particular flower of the Crown, does not illuſtrate or make much <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the buſineſs. In another place he ſays, <hi>Monarchiam autem individuam eſſe opor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere diximus, quia ſi dividatur, Monarchia <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on ſit; ea eſt enim unitatis inviolabilis na<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ura, ut omnem omnino refugiat partitio<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em; ut enim Corona — Monarchy muſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e indiviſible, ſuch is the nature of Unity <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat it cannot be by any means diſtributed; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the Crown</hi> — which compariſon he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gain repeats. But his Argument is no <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etter, than with us, ſhould we from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he nature of the number <hi>five</hi> perſwade, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here cannot be ſeven or eight <hi>Cinque Ports;</hi> or in <hi>France</hi> argue, that the Ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocates Cap cannot be <hi>ſquare,</hi> becauſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tis called <hi>Bonnet round:</hi> Words are a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rt of Cloaths that are not always exact<g ref="char:EOLhyphen"/>ly
+<pb n="24" facs="tcp:110769:16"/>ſhaped to the Thoughts that wear them. Another Argument he would bring from a Saying in <hi>Ariſtotle</hi> againſt <hi>Plato,</hi> that <hi>two extremes would make no good mixture: Nam ſi nihil optimum ex duobus extremis exiſtere poſſe confiteatur, quid fert tribus inter ſe confuſis?</hi> which is as ſtrongly urged, as ſhould he ſay, if <hi>Dover</hi> and <hi>Calice</hi> cannot come to<g ref="char:EOLhyphen"/>gether, how ſhall the Sea make any intercourſe and correſpondence betwixt them?</p>
+            <p>But becauſe theſe Reaſons ſeem a little too metaphyſical, he would make the matter plain by Examples; and with a ſtrange confidence ſuggeſts that neither the Spartan nor the Roman were mixt Common-wealths: And it is no wonder if he find ſome paſſages in Hiſtorians to prove them either Monarchies, Ariſto<g ref="char:EOLhyphen"/>cracies, or Democracies, as he had a mind. <hi>Plato</hi> ſays, that <hi>he knew not by which of theſe Names to call the Spartan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> And <hi>Ariſtotle</hi> to the ſame effect; and that <hi>this ſhows the mixture to be perfect and acurate:</hi> And <hi>Polybius</hi> ſpeaking o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both the Spartan and Roman, tells us
+<pb n="25" facs="tcp:110769:16"/>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at the</hi>
+               <note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>three States had <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Soveraignty ſo equally ſha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d amongſt them, that even <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oſe who lived under the Government could <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t well pronounce in the main, whether the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>wer was in the People, in the Nobles, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in the Monarchick State.</hi>
+            </p>
+            <p>In the Spartan, the Kings, the Senate, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the People, by their Repreſentatives <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>Ephori;</hi> in the Roman, the Conſuls, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Senate, and the People, by their Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſentatives the Tribunes, made the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ree States of the Common-wealth.</p>
+            <p>But that we may return to <hi>France,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ere <hi>Bodin</hi> ſwaggers, and would make <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Capital to account that of <hi>France</hi> a <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ixt Monarchy</hi> as ſome had done; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho reckon'd the <hi>Ariſtocracy</hi> to conſiſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Peers,</hi> and the <hi>Democracy</hi> in that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey call the <hi>Third State. Machiavel</hi> be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ev'd it a <hi>mixt</hi> Monarchy, and to that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emper imputes all its greatneſs and du<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation. <hi>Seiſſel</hi> who writ expreſly on the Monarchy, affirms the ſame thing with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>any more that writ both before and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce <hi>Bodin.</hi>
+            </p>
+            <p>He ſays there is not the leaſt ſhadow
+<pb n="26" facs="tcp:110769:17"/>of an <hi>Ariſtocracy</hi> in the <hi>Peers,—Pa<g ref="char:EOLhyphen"/>rium qui ſic appellantur, quod inter ſe qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dem pares ſunt, non autem principi, ut n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mis ruſtice nonnulli opinantur. TRhey ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one anothers Peers,</hi> he ſays, <hi>and not Peer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to their Prince as ſome too clowniſhly ima<g ref="char:EOLhyphen"/>gine.</hi>
+            </p>
+            <p>
+               <hi>Caeſar</hi> called the Army under his Com<g ref="char:EOLhyphen"/>mand, <hi>Commilitones</hi> or <hi>Fellow-Soldiers</hi> and it would have been a little blunt i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them to have called him Fellow-Soldie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> again; but whoever ſhall look back i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Hiſtory to the Original of theſe <hi>Peer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> may find that they were in the beginning the <hi>Kings Peers,</hi> though at this day th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſtance is very plain. <hi>Du Huillant</hi> ſpeak<g ref="char:EOLhyphen"/>ing of <hi>Hugh Capet,</hi> tells us, that he — n'eſtant ſi grand guerrier que bien en<g ref="char:EOLhyphen"/>tendu aux affaires, caut et adviſe, il <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> voluit proceder par cautelles &amp; douceurs ſi qu'ayant affaire à grand ſeigneurs<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> manda tous les gouuerneurs des Provin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ces de ſon royaume à ce qu'ils vinſſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vers lui, pour le conſciller au gouuerne<g ref="char:EOLhyphen"/>ment, regime &amp; adminiſtration de ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nouueau eſtat, leur faiſant entendre qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> totalement il vouloit dependre de leu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="27" facs="tcp:110769:17"/>conſcil &amp; avis; voire les tenir pres da <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, come ſes amis, freres, &amp; pareils en <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſſance &amp; Autorité; — <hi>not being ſo <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch a Warrier as a wiſe and wary Perſon, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would proceed ſoft and fair, ſo that ha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng to do with great Lords, he ſent to all <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vernors of Provinces within his King<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m, that they might come to him to adviſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>out the Government, and Adminiſtration <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his new State; letting them to under<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nd that he would wholly depend on their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>unſel and Advice; and keep them about <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Perſon as his Friends, Brothers, and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>uals in Power and Authority.</hi> He tells <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> futher, <hi>that ſome of the cunningeſt a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ngſt them, ſeeing</hi> Hugh, <hi>from a Mayer <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>the Palace to be made King, did the ſame; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d ſet up for themſelves within their Go<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rnments, making themſelves Lords, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>kes, and Counts Proprietors; whereas <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>re they had been only Governors,</hi> viz. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e Dukes governors of Provinces, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Counts Governors of Towns, and thoſe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>les of Dukes and Counts that formerly <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re given to the Governors for the time <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly, became now Hereditary and deſceneded <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Posterity. Paſquiere</hi> gives the ſame
+<pb n="28" facs="tcp:110769:18"/>account of the <hi>Peers</hi> at large, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Preſident <hi>Fauchet</hi> employed by <hi>Henry</hi> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Third to reviſe the Antiquities of <hi>Fran<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and who writ ſince <hi>Bodin,</hi> tells us: Ma<g ref="char:EOLhyphen"/>les urays fondateurs de l'eſtat Fronca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ont eſte ceux de la maiſon de capet; le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> quels de leur gré, ou contraincts par <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nobleſſe, de laiſſer en heritage, &amp; ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> l'hommage, les duchez &amp; comtez aup<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ravant tenus à vie (car on ne trouue poi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> certainement quand &amp; pourquoy ils <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſont faites hereditaires) amoindrie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ceſte debordeé puiſſance des ancie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Roys, de faire toutes choſes a leur app<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tit, &amp; comme ceux de Lacedemon <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>eeurent les Ephores, pour controlleu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> de leur authorité, ceux-cy eſtablire<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; aſſeurerent les plus grands ſeigneu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ducs, Comtes &amp; Pairs de la cour <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> France, pour tenir le grand Parlemen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> audience &amp; generalle Juſtice de tout<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> les doleances du peuple; &amp; les Jugemen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> des Seneſchauz &amp; Baillifz, &amp; juges inf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rieurs donnes en grandes cauſes, car <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> commencement de ceſte derniere fami<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> le, il n'y avoit comte, voire ſigneur cha<g ref="char:EOLhyphen"/>ſtellain dependant nüement du Roy, q<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="29" facs="tcp:110769:18"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>penſaſt avoir autant de puiſſance en <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>erre, que ces nouueaux Roys.</p>
+            <p>
+               <hi>But the true Founders of the French <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>e, were theſe of the Houſe of</hi> Capet; <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of their own accord, or compell'd by the <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ility, left them their Dutchies and <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>nties formerly held for life only in inhe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>nce ſaving the homage, (for it is not <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ainly known when or wherefore they were <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e hereditary) and leſſened that unbrid<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> power of the ancient Kings to do all <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>gs according to their appetite, and as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of</hi> Sparta <hi>took the</hi> Ephori <hi>for Con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ers of their Authority, theſe ſettled and <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ed the greateſt Lords, Dukes, Counts, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Peers of the Court of</hi> France, <hi>to hold <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> great Parliament, Audience, and gene<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Juſtice of all the grievances of the Peo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and appeals from the Judgments of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Seneſchals, Baylies, and inferior Judges <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>n in great cauſes: For at the begin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> when this Family Reign'd, there was <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>r a Count, nor ſo much as a Lord of a <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e depending barely on the King, who <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ght not that he had as abſolute power <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in his own Land, as theſe new Kings.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>onfirm this he adds, how the Kings
+<pb n="30" facs="tcp:110769:19"/>
+               <hi>Hugh</hi> and <hi>Robert,</hi> writing to <hi>Audeber<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Count of <hi>Perigueux,</hi> to raiſe the Sieg<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> before <hi>Tours,</hi> and twitting him with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Demand, <hi>who made him Count?</hi> Il <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fit difficulté de reſpondre, ce n'eſt vo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Roys; ains ceux qui vous ont fait Roy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>He did not ſtick to anſwer, 'twas not y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Kings, but thoſe who made you Kings.</hi>
+            </p>
+            <p>And whoever conſiders the circum<g ref="char:EOLhyphen"/>ſtances of <hi>Hugh Capet</hi>'s coming to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Crown, and the great power the <hi>Pee<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> exerciſed till upon the occaſion of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Holy War and other practiſes they we<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reduc'd and brought to the Crown, ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well conclude: That<note n="(a)" place="margin">Paſquiere.</note> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> toute ancienneté en for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> d'Ariſtocratie conjoynte avec la Mona<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>chie, furent introduits les douze Poi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſur leſquels nos Roys ne s'eſtans reſerv<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> que la Souueraineté &amp; hommage, ſem<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> que par leur conſcil (comme d'un anci<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Senate) ſe menaſſent les affaires. <hi>Fr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> all Antiquity were introduced in the form<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an Ariſtocracy joyn'd to the Monarchy, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> twelve Peers, over whom the King reſer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing only his Soveraignty and Homage, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> affairs of State ſeem (as by an ancient <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="31" facs="tcp:110769:19"/>nate) managed by their advice.</hi>
+            </p>
+            <p>And when ſcarce the ſhadow of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncient Peerage remain'd to them, they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etain'd the <hi>Precedence,</hi> and had place be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore all <hi>Princes</hi> of the <hi>Blood,</hi> till the late Ordinance, <hi>Anno</hi> 1576. to the con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rary.</p>
+            <p>And 'tis<note n="(d)" place="margin">Baracaue.</note> ſaid there was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Order of Parliament alſo <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nno</hi> 1295. whereby it was declared <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat they were called <hi>Peers</hi> for being one <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nothers <hi>Peers,</hi> and not the Kings <hi>E<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uals.</hi>
+            </p>
+            <p>What <hi>Bodin</hi> would conclude from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe forms, <hi>quia ſic nobis placuit,</hi> and <hi>Rex vobis dicit,</hi> may be anſwered in the words of Dr. <hi>Baracaue,</hi> where (in ano<g ref="char:EOLhyphen"/>ther occaſion) he ſays, this is not like <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>ſic volo, ſic jubeo,</hi> noted by the Saty<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſt. Qu'importe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t il de dire, ainſi nous <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>laiſt, &amp; tel eſt noſtre plaiſir, ou dire &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our cauſe, ſans exprimer la cauſe? Les Cours des Parlemens diſent en leurs ar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſts, &amp; pour cauſe ſans en rendre la cauſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our monſtrer la Soveranieté.</p>
+            <p>
+               <hi>What more is it,</hi> ſays he, <hi>to ſay we are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pleaſed, and ſuch is our pleaſure; than
+<pb n="32" facs="tcp:110769:20"/>to ſay, And for a Cauſe, without expreſſing the Cauſe? The Courts of Parliament ſay in their Orders, and for a Cauſe, without ren<g ref="char:EOLhyphen"/>dring any cauſe; to ſhew the Soveraignty.</hi> The Parliament, it ſeems, have their <hi>forms</hi> too to ſhew their Soveraignty, nor is the Argument of <hi>Bodin</hi> from the <hi>form</hi> of di<g ref="char:EOLhyphen"/>recting their Letters, of more force: How ſhould they write but, <hi>Au Roy noſtre ſou<g ref="char:EOLhyphen"/>uerain ſeigneur, Regi Domino noſtro ſupre<g ref="char:EOLhyphen"/>mo?</hi> Is not this the ordinary civility of <hi>Europe?</hi> 'Tis true that when<note n="(e)" place="margin">Suetonius.</note> a Poet had called <hi>Augu<g ref="char:EOLhyphen"/>ſtus Caeſar, Dominus;</hi> he ſet out a Procla<g ref="char:EOLhyphen"/>mation that none might preſume to call him any more by ſo proud a Title, nor could the modeſty of his Succeſſor <hi>Tibe<g ref="char:EOLhyphen"/>rius</hi> bear it.</p>
+            <p>Yet as their Majeſty and real Great<g ref="char:EOLhyphen"/>neſs declin'd, as the Empire began to ſink, the froth and flattery came above; ſo that it was lawful to call <hi>Domitian</hi> both <hi>Lord</hi> and <hi>God;</hi> and his Succeſſors were not ſatisfied till complemented in the abſtract with your <hi>Everlaſtingneſs,</hi> your <hi>Eternity,</hi> your <hi>Divinity, &amp;c.</hi> And when the wooden Eagle was ſplit in two,
+<pb n="33" facs="tcp:110769:20"/>that Chip of the Eaſtern Empire brake <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut into bloſſoms to a miracle, with the <hi>Porphyrogenitos</hi> and <hi>Deſpots,</hi> were blown about the <hi>Sebaſtocrators, Panhyperſebaſti, Protonobiliſſimypertati, &amp;c.</hi>
+            </p>
+            <p>But amongſt the Romans, theſe Titles ſo fierce and glorious after they had been worn a while at Court, deſcended to the City and Country; and even came ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow, that <hi>Martial</hi> could ſay of the mighty <hi>Dominus,</hi>
+               <q>
+                  <l>Quod voco te dominum, noli tibi <hi>Cinna</hi> pla<g ref="char:EOLhyphen"/>cere,</l>
+                  <l>Saepe etiam ſervum ſic reſaluto meum.</l>
+               </q>
+            </p>
+            <p>The French words, <hi>Sire, Seigneur</hi> and <hi>Sieur</hi> have ran the ſame fortune; and the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alling a man <hi>Sir,</hi> or <hi>Monſieur,</hi> or <hi>Mon<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eigneur,</hi> or <hi>My Lord</hi> twenty times, will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot amount to a Recognizance of any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ubjection: nor can the Complement <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſs any Domination or <hi>Deſpotick</hi> Right <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver us.</p>
+            <p>If <hi>Seigneur</hi> and <hi>Dominus</hi> will not do, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he word <hi>Souverain</hi> will not help them; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing commonly uſed in <hi>France</hi> for any <hi>Superior:</hi> as, <hi>Soveraign</hi> of the <hi>Accounts,
+<pb n="34" facs="tcp:110769:21"/>Soveraign</hi> of the <hi>Treaſure, Soveraign</hi> of the <hi>Foreſts, Soveraign Judge, Soveraign Bailiff, &amp;c.</hi>
+            </p>
+            <p>And now having ſaid ſo much con<g ref="char:EOLhyphen"/>cerning the direction of theſe Letters, I ſhall add nothing in anſwer to <hi>Bodin,</hi> touching the Subſcription: all agree<g ref="char:EOLhyphen"/>ing, that where the Letter begins with <hi>Seigneur,</hi> of courſe, it muſt end with <hi>Treſhumble</hi> and <hi>Treſobeiſſant Serviteur.</hi>
+            </p>
+            <p>And that their proceedings with the King are by way of Petition, is no more than is done even in <hi>Poland:</hi> where <hi>Bo<g ref="char:EOLhyphen"/>din</hi> makes the Government an Ariſto<g ref="char:EOLhyphen"/>eracy.</p>
+            <p>It is a Rule, <hi>Quae ex adulatione, vel indulgentiâ conceduntur non debent trahi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in exemplum.</hi> Beſides, of all people, this is the worſt Argument with the French; who are ſo well known to af<g ref="char:EOLhyphen"/>fect ſoft words, and gentle forms on all occaſions poſſible. It is not their faſhion, like the Juſtice of <hi>Aragon,</hi> to accoſt their King with a Nos qui valemos tanto co<g ref="char:EOLhyphen"/>mo vos, y podemos mas que vos, vos e<g ref="char:EOLhyphen"/>legimos rei con eſtas é y eſtas condicio<g ref="char:EOLhyphen"/>nes, entra vos y nos un que manda mas
+<pb n="35" facs="tcp:110769:21"/>que vos, i. e. <hi>We who are as good men as you, and can do more than you, chuſe you King on ſuch and ſuch conditions; there is one betwixt us and you, who commands more than you.</hi>
+            </p>
+            <p>The power of this Parliament, in al<g ref="char:EOLhyphen"/>lowing or refuſing the Acts of the King, is the ſame in effect as what we call the <hi>Negative Voice.</hi> And ſometimes, when the Kings would hardly be denied, the Parliament have much valued them<g ref="char:EOLhyphen"/>ſelves for their reſolution in oppoſing them. Thus they overcame <hi>Lewis</hi> the Eleventh,<note n="a" place="margin">Paſquier.</note> whoſe wilfulneſs and <hi>Opiniâtreté</hi> was particu<g ref="char:EOLhyphen"/>larly noted by Hiſtorians) and made him promiſe to importune them no more, nor ſend Letters to them that were not <hi>de Commandement Royal;</hi> which they interpret, <hi>Juſt Commands.</hi> As, <hi>an vo<g ref="char:EOLhyphen"/>lunté du Roy,</hi> is meant, <hi>To the Laws.</hi> The moſt memorable inſtance that I have met with, of the Parliament's Au<g ref="char:EOLhyphen"/>thority in this kind, is that in <hi>Henry</hi> the Third's time; when he wrote to the Governor <hi>d'Angoulmois,</hi> to put the Town into <hi>Monſieur</hi>'s hands; the Governor de<g ref="char:EOLhyphen"/>ſires
+<pb n="36" facs="tcp:110769:22"/>to be excuſed: the Duke <hi>de Montpen<g ref="char:EOLhyphen"/>ſier</hi> is ſent, and the Gates are ſhut againſt him; then is ſent an Herald of Arms, to declare them Rebels and Enemies, unleſs they obeyed. And at the requeſt of the Attorney General, the Parliament orders the Inhabitants to appear in perſo at a day certain; they ſend their Deputies. It was inſiſted upon, that they ſhould be heard before the Privy Council: but they demanded to be heard in Parliament. Where, when they came, it was urged that they might not be allowed Council, but ſpeak for themſelves, being charged with High Treaſon. The Deputies in<g ref="char:EOLhyphen"/>ſiſted that, on the contrary, they had done the King good Service; and that, for their part, they had no Charge to plead other<g ref="char:EOLhyphen"/>wiſe than by the mouth of their Advo<g ref="char:EOLhyphen"/>cate. Which being granted, they made choice of <hi>Paſquier.</hi> And the ſum of their Plea was, Que l'ancien ordre de ceſte Monarchie portoit que iamais trefue de telle importance, iamais paix n'avoit eſté executeé, qu'au prealable elle ne fuſt ve<g ref="char:EOLhyphen"/>rifieé &amp; emologuee en ceſte cour avec<g ref="char:EOLhyphen"/>que grande maturite de conſeil que ceſte<g ref="char:EOLhyphen"/>cyne
+<pb n="37" facs="tcp:110769:22"/>l'ayant eſté, nous avions juſte occa<g ref="char:EOLhyphen"/>ſion de nous excuſer, &amp; diſpenſer de l'ou<g ref="char:EOLhyphen"/>verture que l'on demandoit. Ceſte exce<g ref="char:EOLhyphen"/>ption eſtoit elle bonne &amp; vallable? Quant a moy ie n'en feray jamais nul doute, voz regiſtres en font foy, l'uſage eſt tel, &amp; la loy generale de la <hi>France. i. e. That the ancient courſe of this Monarchy was ſo, that never Truce of this importance, never any Peace was executed, but that, in order thereunto, it was firſt allowed and recorded in this Court, with great maturity of Counſel. That this for the delivering up of</hi> Angou<g ref="char:EOLhyphen"/>leſme, <hi>not being ſo recorded, we had juſt rea<g ref="char:EOLhyphen"/>ſon to excuſe our ſelves, and to diſpence with the opening of the Gates demanded of us. Is this Exception good and ſufficient? For my part, I ſhall never doubt it. This your Records can teſtifie, this is the Cuſtom and Common Law of</hi> France.</p>
+            <p>The Authors that write in Latin call their Parliaments, <hi>Sacrum &amp; Sacroſan<g ref="char:EOLhyphen"/>ctum ordinem, A Sacred and Divine Con<g ref="char:EOLhyphen"/>ſtitution; Quid tertium &amp; arbitrum, A third Party, and Umpire betwixt Prince and People: Si tribunitiae poteſtati, aut</hi> Ephoris Lacedemoniis <hi>compares non ab<g ref="char:EOLhyphen"/>erres,</hi>
+               <pb n="38" facs="tcp:110769:23"/>ſays <hi>Matherel: Their Power may be compared to that of the Tribunes, or the</hi> Lacedemonian Ephori. Du Haillan, ſays they, are truly a Roman Senate, ceſt un urai Senate Romain, repreſentant une majeſty ſecourable aux bons, &amp; e<g ref="char:EOLhyphen"/>ſpouuantable aux mauuais attendu qu'el<g ref="char:EOLhyphen"/>les ont cognoiſſance en derniee reſort, &amp; ſans appel non ſeulement de toutes matieres civiles &amp; criminelles, mais auſ<g ref="char:EOLhyphen"/>ſi de toutes lettres royaux; entre antres des graces &amp; remiſſions, pour juger de la civilité ou incivilité d'icelles. <hi>It is a true Roman Senate, repreſenting a Majeſty giv<g ref="char:EOLhyphen"/>ing ſuccour to the Good, but terrible to Evil-doers; in as much as they have cog<g ref="char:EOLhyphen"/>nizance, and give Judgment without Ap<g ref="char:EOLhyphen"/>peal; not only in all Civil and Criminal Cauſes, but likewiſe of all the King's Let<g ref="char:EOLhyphen"/>ters: amongſt the rerſt, thoſe of Graces and Pardons; to judge whether they be lawful or unlawful. Paſquier,</hi> on this occaſion, tells us, <hi>Their Parliament is not like the Pope's Officers, to judge of the Fraud or Surpriſes only, but to determine whether the King's Grants be juſt and reaſonable, or no.</hi> and <hi>du Hallan</hi> affirms, Ceſte
+<pb n="39" facs="tcp:110769:23"/>forme de proceder eſt ſi ancienne en ce Royaume, qu' un Prince, quelque de<g ref="char:EOLhyphen"/>pravé que il ſoit, auroit honté de la rom<g ref="char:EOLhyphen"/>pre, comme euſſi ſes fuiets &amp; ſerviteurs craindroient a le lui conſeiller. <hi>This form of proceeding is ſo ancient, that any Prince, however depraved, would be a<g ref="char:EOLhyphen"/>ſhamed to break it; nor would any of his Servants or Miniſters dare to adviſe him thereto.</hi> And in another place, Sont tel<g ref="char:EOLhyphen"/>lement inveterees, que pas un roi n'en<g ref="char:EOLhyphen"/>treprend d'y deroger, &amp; quand il le vou<g ref="char:EOLhyphen"/>droit faire, on n'obeiroit point á ſon com<g ref="char:EOLhyphen"/>mandement. <hi>A practice ſo ſettled that no King would undertake to derogate from it: nor if he ſhould, would any obey his Commands.</hi> But Quotations of this kind are endleſs.</p>
+            <p>The French reckon ſeveral Particulars wherein their King's Power is reſtrain<g ref="char:EOLhyphen"/>ed; as that, <hi>He cannot alter their Coin. He cannot turn out of place the Magiſtrates of the Kingdom, till their Cauſe be heard and approved in Parliament.</hi>
+            </p>
+            <p>
+               <hi>He cannot pardon a Criminal without the Parliament. Regi capitatis paenae re<g ref="char:EOLhyphen"/>nittendae, &amp; abolendi criminis ſine parla<g ref="char:EOLhyphen"/>menti
+<pb n="40" facs="tcp:110769:24"/>auctoritate jus non ſit, in hoc regno. Criminoſus deferens litteras remiſſionis aut abolitionis, ſiue pardonii debet incarcerari, &amp; ſuas literas offerre Parlamento, &amp;c. Boerius deciſ. Burdegal.</hi> 65. Dont en y a ſouuent de condamnez &amp; executez avec leurs graces. <hi>Le Roy, p.</hi> 376.</p>
+            <p>
+               <hi>He cannot alien any part of his Demean, nor any part of his Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Nor can he diſpoſe of the Succeſſion;</hi> that not being Patrimonial or Heredita<g ref="char:EOLhyphen"/>ry. <hi>Sed ſola lege &amp; conſuetudine regni,</hi> as their Lawyers ſpeak. Or <hi>Lege Regiâ,</hi> according to the new Cant in <hi>Bodin.</hi>
+            </p>
+            <p>Another of theſe they call Laws of the Kingdom, or Fundamentals, is their <hi>Sa<g ref="char:EOLhyphen"/>lick Law,</hi> for excluding Females from the Crown.</p>
+            <p>And farther, to prove the French King a Civil King, he is not in his Great Seals repreſented as the Emperors and other Kings, in Armour, on Horſeback, or with a naked Sword in hand, like Conquerors; but he is pictured, ſitting on the Bench in a long Robe, with Ju<g ref="char:EOLhyphen"/>ſtice in his Right Hand. <hi>En habit de Roi Juſticier.</hi>
+            </p>
+            <pb n="41" facs="tcp:110769:24"/>
+            <p>In like manner, for the Soveraignty of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Parliament, we may obſerve, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen all other Officers, upon the death <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their King, are in mourning Weeds, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſe, in the midſt of the Obſequies, ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear in their Robes of Scarlet; to ſhew, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at though the Kings be mortal, yet the <hi>Majeſty</hi> of the Crown ſurvives in the Parliament.</p>
+            <p>And from hence, perhaps, may be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>awn the true reaſon of that ſaying in <hi>France,</hi> that their King is <hi>Immortal,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at he <hi>never dies.</hi> There being little <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ound for the ſenſe that <hi>Bodin</hi> would <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve it from the Succeſſion; ſeeing that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſides the many interruptions by Ba<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ards that have reigned, and thoſe great<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Changes from the <hi>Merovingians,</hi> to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Charlians;</hi> and from the <hi>Charlians, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Hugh Capet</hi>'s Line; their Kings, till of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te, never computed the beginning of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Reign from their Predeceſſors De<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aſe, but only from the time of their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn Coronation. So that in <hi>Bodin</hi>'s <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nſe, it has not been from any very an<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent date that their Kings have been im<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ortal.</p>
+            <pb n="42" facs="tcp:110769:25"/>
+            <p>May be, in imitation of the <hi>Veſtra <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ternitas</hi> of the Roman Emperors, ſon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more baſhful French-man having vent red to call their King <hi>immortal;</hi> oth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> French-men, not underſtanding th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cramp word, got it interpreted. An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the King never dies was a pret<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſong amongſt them. But in what ſen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this could be, all were in the dark; t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> at length, a cunning man aroſe, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made it out moſt plainly: as <hi>Bodin</hi> h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> done.</p>
+            <p>By what has been ſaid, the Fren<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Monarchy may ſeem ſufficiently tempe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed with a <hi>mixture</hi> of the other State<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Yet, after all, it cannot be diſſemble<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the <hi>Peers</hi> at this day are not th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> King's <hi>Fellows</hi> or <hi>Equals,</hi> as at their O<g ref="char:EOLhyphen"/>riginal Inſtitution. Nor are theſe (no<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> called) Parliaments the ſame thing wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the old Parliaments under the <hi>Merovi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gians</hi> or <hi>Charlians;</hi> whe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <note n="(g)" place="margin">Carpento bu<g ref="char:EOLhyphen"/>bus tracto, &amp;c. <hi>Tritenhemius.</hi>
+               </note> 
+               <hi>by the Team of Royal O<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> en was drawn along in a Wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gon his hairy Majeſty, to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> place appointed for that Auguſt Aſſembl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>Then were the states called, and con<g ref="char:EOLhyphen"/>ſulted
+<pb n="43" facs="tcp:110769:25"/>on all great occaſions. Yet theſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re the Victorious; the <hi>Clovis,</hi> the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>arlemain,</hi> the Kings that extended <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Dominions over <hi>Spain, Italy, Dal<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tia, Sclavonia, Hungary, Poland,</hi> and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ught even <hi>Germany,</hi> with their Title <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Emperor, to the French Crown.</p>
+            <p>But what if thoſe mighty Warriers <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uld not call the States? that, poſſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, in thoſe days of Honeſty and true <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>licy, was a point no more thought on, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n was the Crime of Parricide by the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Legiſlators.</p>
+            <p>In the old Hiſtorians we find there <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re ſeveral names for this Aſſembly; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Conventus Statuum, Curia, Placitum, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lamentum.</hi>
+            </p>
+            <p>The many wars occaſioned many <hi>Par<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> or Meetings, to treat of Peace. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m this <hi>Parley,</hi> or <hi>Parlement,</hi> as the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nch word it, theſe Aſſembleies are cal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Parliaments.</hi>
+            </p>
+            <p>Sometimes they were called <hi>Curia,</hi> or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Court:</hi> and becauſe thoſe Kings <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re not ordinarily ſeen by the people, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e in this <hi>Court,</hi> afterwards the Phraſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>going to <hi>Court</hi> came to ſignifie the go<g ref="char:EOLhyphen"/>ing
+<pb n="44" facs="tcp:110769:26"/>to the King's Palace, or place of R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fidence.</p>
+            <p>They were alſo called <hi>Plactium,</hi> fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whence <hi>Hotoman</hi> thinks, when the Kin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Edicts came to be writ in the Mothe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tongue, the ignorance or malice of ſo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Clerks deduced that ordinary from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Car tel eſt noſtre plaiſir,</hi> for the Lat<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Quia tale eſt noſtrum placitum.</hi>
+            </p>
+            <p>And thoſe weighty Affairs, and pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lick buſineſs, which were commonly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſerved for this <hi>Aſſembly</hi> of the <hi>States,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be there treated on and debated, ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> afterwards, from thence, to be call<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Matters of State;</hi> as alſo, the Phraſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſitting in <hi>State,</hi> and the <hi>Chair of St<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> from the <hi>Golden Throne</hi> on which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Kings wereplaced in theſe Aſſemblies.</p>
+            <p>But when <hi>Hugh Capet</hi> aſcended <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Throne, new meaſures and new Polici<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> came in play. He was no Fighter, n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cared for enlarging of Territories; b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> had a notable head for King-craft, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſought on the beſt terms to ſettle <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Crown in his Family. To that end, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Biſhop of <hi>Laon,</hi> (who had betrayed in<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his hands the King and Royal Fami<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="45" facs="tcp:110769:26"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thither for ſhelter) and the other <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hops and great Lords, that had done, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> might to do him good Offices, were ta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in to be his Peers, and ſhare with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m in the Adminiſtration of the Go<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nment.</p>
+            <p>Now, by this new Model, the Ari<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cracy, or <hi>Nobles,</hi> gain'd very much. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t a great blow was given by this inno<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion to the <hi>Democratical</hi> or <hi>Popular <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>te.</hi> For theſe <hi>Peers,</hi> beſides their par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ular intereſt in the Nation, were in ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>arance a competent Council for the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nagement of all the extraordinary bu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſs and <hi>Affairs</hi> of <hi>State,</hi> whereby the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rliament was not ſo neceſſary as for<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rly. And <hi>Capet</hi> finding in the people <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hanckering ſtill for the old Race of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>arlemane,</hi> was well content to be diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ced withal from calling that Aſſem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>; ſave that for ſecuring the Succeſſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he was fain to keep them in humour, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that he had prevailed with them in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> life time to Crown his Son <hi>Robert</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g.</p>
+            <p>The ſame jealouſie cauſed <hi>Robert</hi> in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> life time, to do the like for his Son,
+<pb n="46" facs="tcp:110769:27"/>
+               <hi>Henry</hi> the firſt. And <hi>Henry</hi> alſo, for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Son <hi>Philip</hi> the firſt. And now one mig<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have thought the Succeſſion fixed. Y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Philip</hi> dying without having made <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſame Proviſion for his Son <hi>Lewis</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Groſs, Lewis</hi> was put to his ſhifts to g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> crowned: and was fain to take up wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a kind of an unuſual Biſhop, to do t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> job for him in hugger mugger.</p>
+            <p>Whereupon, he grown wiſe du<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not truſt the States for his Son <hi>Lewis</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Young;</hi> but put him in poſſeſſion of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Throne e'er he left the World. A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this <hi>Lewis</hi> did as much for his Son <hi>Phi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> the Second. Till now, after ſome hu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> dreds of Years diſcontinuance, all <hi>E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ction-right</hi> was pretty well forgotte<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> This however, ſet the Court a fenci<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> againſt the States; and the Court thoug<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it ſelf better at eaſe without them.</p>
+            <p>Nor was this concerning the Succe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> on the only Tye upon the Kings to con<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nue a good underſtanding with the Stat<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> but the Peers were often at variance wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the King, and put him hard to it. And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe diſtempers in the Kingdom no <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> medy was found effectual but an heali<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="47" facs="tcp:110769:27"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>arliament. Theſe were the Umpire be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wixt King and Peers; and generally de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ded in favour of the Crown.</p>
+            <p>By which partial Arbitrements, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the advantages made of the Holy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar, when the Peers Adventurers died <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Expedition; ſome without Heirs, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me without other than Females, or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ales under Age. So that the <hi>Pairyes</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Eſcheat, by the <hi>Salick</hi> Law, or by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> way of Guardianſhip, came to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rown.</p>
+            <p>By which means, the Power of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eers being at an end, and the Equality <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oken, there remained no farther occa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>on for Arbitrations, and the ſacred Au<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ority of Parliament quite vaniſhed.</p>
+            <p>So that now, without much danger, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Experiments might be improved, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d new projects of Government ſet on <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ot. Accordingly, the old Parliament <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be laid aſide; and in their room, a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ect knot of men to have the <hi>States bu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſs</hi> committed to their Truſt and Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ct.</p>
+            <p>And theſe, for their better counte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce, muſt be called a Parliament alſo.
+<pb n="48" facs="tcp:110769:28"/>whatever Power and Authority had bee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> exerciſed by the States, is now uſurpe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by this young Senate; and preſently <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> new Houſe is built for them, and the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are fixed at <hi>Paris.</hi> Where, after a litt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> while, they became ſo overlayed wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> buſineſs, that one Parliament was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſufficient; but two were conſtituted f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the better Expedition.</p>
+            <p>And indeed, having opened the do<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for all Civil Cauſes to come before the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it was neceſſary to draw out from the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parliaments a Detachment for State-A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fairs: and theſe had the name of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Cloſe, Privy,</hi> or <hi>Great Council.</hi> When<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by this Parliament in a little time deg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nerated to a mere Court of Judicature<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as afterwards that Privy Council, b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> permitting Cauſes to be heard befo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them, gave occaſion for the buſineſs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> State to be removed to a particular <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bal.</p>
+            <p>But this Parliament I ſay, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing a new Creature, was toſſed, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> turned into a thouſand ſeveral Shap<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Figures, e'er it came to any dura<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Conſiſtence. One while it was to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="49" facs="tcp:110769:28"/>half-yearly, another while without diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntinuance; then half of it the one half <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear, and the other half Parliament the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her half year; to the end, that what <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e King's Miniſters could not get to paſs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith the one, might be carried in the o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er: thus rendering the Authority of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>urt<note n="(h)" place="margin">Paſqniere Reſ.</note> 
+               <hi>A Demy-illuſoire,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a manner Illuſory, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> But upon the Pope's com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g to ſettle his Court at <hi>Avignon,</hi> theſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ovations and abuſes fell in like a tor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt, both upon church and State.</p>
+            <p>Not long before, the Kings, as St. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>wis,</hi> under a ſhady Tree, in perſon, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard all appeals, and determined the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſes of their Subjects, and were them<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ves the <hi>Chief Juſtices.</hi>
+            </p>
+            <p>Now the Canoniſts ſo infected the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tion with their tricks and ſubterfuges, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Quillets and Chicancery, and ſet <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an itch of wrangling and vexatiouſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſs amongſt them, that Courts could <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be erected faſt enough for them; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in a ſhort time, a third part of the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ple, one way or other, got thereby Employment.</p>
+            <pb n="50" facs="tcp:110769:29"/>
+            <p>A few years before, this King, <hi>Phi<g ref="char:EOLhyphen"/>lip</hi> the <hi>Fair,</hi> had been excommunicated, his Subjects freed from their Obedience, and his Kingdom given away to the Em<g ref="char:EOLhyphen"/>peror, by <hi>Boniface.</hi> Yet now <hi>Clemen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the fifth and he ſo well agreed, upon hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> coming to <hi>Avignon,</hi> that, as my Autho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſays, <hi>Fraterniſans en conſeils,</hi> collogue<g ref="char:EOLhyphen"/>ing together, they not only made goo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> booty of the <hi>Templars,</hi> deſtroying the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by conſent, for no greater quarrel, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuppoſed, than their Riches. But th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pope gave leave to the King to levy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tenth upon all the Clergy; and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King, in exchange, was to connive <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Pope's <hi>Apoſtolick Indults, Graces E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pectatives, Tenths, Firſt Fruits, Procur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tions, Mandates, monitorials, Executo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>als</hi> and <hi>Laudable Cuſtoms.</hi>
+            </p>
+            <p>Theſe inventions and wit of the Min<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſters at <hi>Avignon</hi> raiſed an Emulation <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe at <hi>Paris,</hi> and they wonderred <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> find in words ſo ſtrong a Charm, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Pope thereby could work ſuch wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ders, and ride over all the Fences of Re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſon, Law and Cuſtom; and that for the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtrange feats, the <hi>de proprio motu,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="51" facs="tcp:110769:29"/>
+               <hi>Authoritate abſolutâ</hi> were all ſufficient.</p>
+            <p>Whereupon the Courtiers at <hi>Paris</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll alſo arm the King's Letters with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſe new Spells, and ſend them out up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> adventures. But however <hi>Canonical</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d currant they had proved with the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>urch-men,</hi> to the <hi>Lay people,</hi> this <hi>de <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oprio motu,</hi> and <hi>Authoritate abſolutâ,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re uncouth Phraſe, and <hi>Barbarous La<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> which they could no where meet <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th in <hi>Claſſical</hi> Authors, nor underſtand. Wherefore, when about theſe times, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on occaſions for mony, the <hi>Layety</hi> were <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>adredth penny,</hi> and the <hi>fiftieth penny;</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n with <hi>Fortification money, Equiva<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ts</hi> and <hi>Loans;</hi> then with yet the more <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eadling terms of <hi>Aids, Subſidies</hi> and <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vertions,</hi> ſo it happened, that, let <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Impoſers</hi> call them what they would, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> people had one name for them all; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> crying out a <hi>Maletoult,</hi> knock'd the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>llectors on the head, with as little <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uple as ordinary Robbers.</p>
+            <p>All the great Wars of former days, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>der the <hi>Merovingians</hi> and <hi>Charlians,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for a long time under the <hi>Capets,</hi> had
+<pb n="52" facs="tcp:110769:30"/>been maintained at the King's prope<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Charges: ſo frugal had been their wa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of living, and the Demean of the Crow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo large.</p>
+            <p>But now was no ſubſiſting withou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Levies upon the people; and theſe we<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtubborn and unwilling to be impoſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon, when no Law or Cuſtom could b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhewn to oblige them.</p>
+            <p>This plunge raiſed again from th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> dead the old-faſhioned <hi>Parliamen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> And in one of their firſt Aſſemblies, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was by all declared, that. no Impoſitio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> could be laid upon the people witho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their conſent. Wherefore it being the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> part, they took care to relieve the neo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſities of the Crown. And on this a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> count there was occaſion to aſſemb<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them ſeveral times.</p>
+            <p>But theſe were not now to be call<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Parliament,</hi> but the Aſſembly of t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>States;</hi> nor yet to meddle with <hi>Sta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Affairs;</hi> thoſe weighty matters bei<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> now <hi>Parliament-buſineſs:</hi> and there <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> another Parliament in <hi>Ordinary</hi> for th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> purpoſe.</p>
+            <p>So it is not intended theſe ſho<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="53" facs="tcp:110769:30"/>trouble their heads, unleſs asked, with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther conſiderations; than only in order <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o the laying ſome Tax on the people. Yet the old <hi>Anceſtrel Vertue</hi> would now <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd then be boyling up in the breaſts of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſe <hi>States;</hi> and they be fancying them<g ref="char:EOLhyphen"/>ſelves as full of Power and Soveraign Authority as the old Aſſemblies ſo famed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hiſtory. But the <hi>Doleances,</hi> the Grie<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ances were not to be inſiſted on, when <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce the Mony-Affair was adjuſted: ſo <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey were ſtill ſent home, till need for a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>other Tax. But, what was yet more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rievous, proviſion was made that the impoſts ſhould be at an end after a cer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in time: but when the Collector's <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and was once in, they gathered on, in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> much that what was deſigned for <hi>Temporary,</hi> became <hi>Perpetual.</hi>
+            </p>
+            <p>To prevent which miſchief, the States, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Reign of <hi>Charles</hi> the Fifth, now a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ndantly wiſe, granting a Tax, ordain<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d that none of the King's Officers <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould finger the mony: and the King <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as ſworn ſolemnly, that he would not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſe any of it to be employed to other <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſes than the War it was given for.
+<pb n="54" facs="tcp:110769:31"/>The <hi>Commiſſioners, Aſſeſſors, Collecto<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Receivers</hi> were all <hi>choſen</hi> by the <hi>State<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and ſworn upon the holy Evangeliſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not to convert it to other ways, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Command from the King notwithſtand<g ref="char:EOLhyphen"/>ing. And if any Officer from the Ki<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhould attempt to force them, then th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to call the <hi>Poſſe</hi> of their Neighbours <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> help them to make reſiſtance. Yet<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> find not that all this ſwearing and cau<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> on ſtood them much in ſtead, the T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was continued, and the <hi>Commiſſione<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> that from their being choſen by t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> people, were called <hi>Eſleus,</hi> retain t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> name of <hi>Eſleus</hi> to this day.</p>
+            <p>Unleſs upon theſe occaſions for mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Court at <hi>Paris</hi> ſhewed leſs and l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> diſpoſed to convene this Aſſembly; ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing poſſibly learnt that ſort of policy a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from <hi>Avignon:</hi> where nothing beg<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to ſound ſo harſh to their ears, as t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> talk of calling a <hi>General Council.</hi>
+            </p>
+            <p>However, that their Authority on t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> account of State Affairs might not gro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> quite obſolete and forgotten, upon fo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> great Exigencies, when it could not w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be avoided, they have been ſummone<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="55" facs="tcp:110769:31"/>and have exerciſed their old Soveraign<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y, even in theſe days.</p>
+            <p>As when under <hi>Philip</hi> the <hi>Fair,</hi> and <hi>Charles</hi> the Sixth, they condemned and caſt off the two Popes; <hi>Boniface</hi> the Eighth, and <hi>Benedict</hi> the Thirteenth. And when they decided betwixt <hi>Edward</hi> the Third of <hi>England,</hi> and <hi>Philip Valois,</hi> to whether of them belonged the Right of Succeſſion to the Crown of <hi>France,</hi> when they topt upon us with their <hi>Sa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick Law.</hi> And when King <hi>John</hi> of <hi>France</hi> was taken Priſoner, and carried <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto <hi>England.</hi> When <hi>Francis</hi> the Firſt would have alien'd part of his Domini<g ref="char:EOLhyphen"/>ons, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Lewis</hi> the Eleventh was ſo averſe from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alling this Aſſembly, he would not be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſwaded to it, till a Civil War (which was called, <hi>The War for the Publick Good</hi>) obliged him. And<note n="(i)" place="margin">Hiſt. l. <hi>5.</hi> ca. <hi>18.</hi>
+               </note> 
+               <hi>Comines</hi> tells us, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome Courtiers would have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade it High Treaſon to mention the Calling of them. But <hi>Comines</hi> was not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f their humour; he, againſt the Vogue <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f his Fellow Courtiers declared, that
+<pb n="56" facs="tcp:110769:32"/>no Prince could take a Farthing from a<g ref="char:EOLhyphen"/>ny Subject without their conſent: an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that <hi>England,</hi> by reaſon of the freque<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Parliaments, was the beſt governed Na<g ref="char:EOLhyphen"/>tion in the World.</p>
+            <p>In ſhort, The <hi>Gauls,</hi> as <hi>Caeſar</hi>'s Com<g ref="char:EOLhyphen"/>mentaries teach us, had their <hi>Toti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Galliae Concilium;</hi> which, after the <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nionion</hi> and <hi>Panaetolion</hi> of the Greek<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Budaeus</hi> would have called <hi>Pancelltico<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> as from them; <hi>Camden</hi> that of the En<g ref="char:EOLhyphen"/>gliſh, <hi>Pananglicon.</hi>
+            </p>
+            <p>Whether the French coming to ſett<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> amongſt the Gauls, to render themſelve more eaſie to them, choſe to goven them in their own way; or that the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo brought along with them from <hi>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>many</hi> this Model, it appears not. Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is certain, the Kings of the two form<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Lines did, <hi>bonâ fide,</hi> govern with th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> advice and direction of that great Cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cil in all things.</p>
+            <p>
+               <hi>Hugh Capet</hi> by his Conſtitution of th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Peers,</hi> made the Authority of that an<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ent Aſſembly in a manner uſeleſs, unle<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by accident, that it ſerved to balanc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and be the Umpire betwixt the King<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="57" facs="tcp:110769:32"/>and their <hi>Peers.</hi> But then the <hi>Peers</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ming to be reduced, the Court of <hi>Rome <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Avignon</hi> taught the Courtiers at <hi>Paris</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w Forms and new Politicks: And Ge<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ral Councils being run down, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ade out of faſhion in the Church, the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ate muſt ſympathize with it; and af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r ſome mouldings, and ſome little ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſs, is brought alſo to walk on the ſame <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>igh Ropes, without that counter<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſe which was wont to preſerve it ſted<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and ſecure. The old name of Par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ment remains, but no longer to be re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted fundamental and eſſential to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ommonwealth; only a prudent Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tution. And it was now from the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſdom, or elſe the <hi>debonnaireté</hi> of ſuc<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eding Princes, that they always ſub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>itted their Wills and Edicts to be exa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ined, and approved or rejected by that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſſembly.</p>
+            <p>And now our Writers of the times are <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r maintaining that the Government <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>as never otherwiſe, but the King's <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ower always abſolute and unlimited. Which need be no wonder, ſince the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me Gentlemen affirm the <hi>Merovingi<g ref="char:EOLhyphen"/>ans,
+<pb n="58" facs="tcp:110769:33"/>Charlians</hi> and <hi>Capets,</hi> to be all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Branches from the ſame Stock, again the concurrent Authority of ſo ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hundred Years; and when in truth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>pet</hi> was not ſo much as of French Ext<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ction, but deſcended from <hi>Witich<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> the Saxon.</p>
+            <p>But it was not conceivable how t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Abſolute Powers, as that of the Chur<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and State could agree together in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſame place; therefore a check was fou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for that of the Pope: for upon any cla<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing of Intereſts, the Parliament and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Univerſity did always manfully opp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Pope's Encroachments, and aſſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Liberties of the <hi>Gallicane</hi> Chur<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> In ſo much that <hi>Paſquier</hi> on this occaſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reſembles the <hi>Sorbon</hi> to the Tribunes old <hi>Rome.</hi>
+            </p>
+            <p>And yet ſo long as the temporal Pri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhould aſſume an abſolute Power, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Papal intereſt would be certain to prev<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the end. A mixt monarchy is a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lance to it ſelf, and needs to Forei<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Authority to interpoſe: but under <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> unlimited Power, where the Prince accountable to none but God, whith<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="59" facs="tcp:110769:33"/>ſhould the diſcontented fly? whither <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ould the oppreſſed reſort, but to God's <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gents and Plenipotentiaries; to God's <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>icar, the Pope his Apoſtolick Majeſty, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r Redreſs? He can curſe and throw <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>out his Thunder, and free the Sub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cts from their Obedience, <hi>&amp;c.</hi>
+            </p>
+            <p>And in this the Pope has the better <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd of the ſtaff; for by ſetting the tem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oral Princes above all the ties of Hu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ane Policy, and Civil Prudence, he <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ot only withdraws their Subjects from <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em, but even makes their temporal <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>overaignty truckle to his Spiritual: for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Soul and Eternity are of more con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>quence and value than any man's mor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l body. And whenever a Conteſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>appens, the Spirituals are ſure to have <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e upper hand.</p>
+            <p>When the Jeſuits came in with their <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eca obedientia,</hi> that other <hi>barbarous</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>raſe to enſlave the World withal; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey intended their Doctrine for the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ppe's ſervice only; for at the ſame time <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey reproached ſuch of the Roman Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gion as ſcrupled to own that the Pope <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d power to give away the Kingdom of
+<pb n="60" facs="tcp:110769:34"/>
+               <hi>France,</hi> or any other Kingdom at plea<g ref="char:EOLhyphen"/>ſure: and called them all Calviniſts, who could not be thorough paced Je<g ref="char:EOLhyphen"/>ſuits.</p>
+            <p>But, to be even with them, and to a<g ref="char:EOLhyphen"/>void all ſtrife betwixt the Spiritual Ab<g ref="char:EOLhyphen"/>ſolute, and the Temporal Abſolute Power, <hi>Hobs</hi> takes the only true politick Meaſures. he, for quietneſs ſake, thruſts the whole Nation of Spiritual Beings out of the World: and that the Soveraignty might be indiviſible indeed, he allows not ſo much as <hi>Diviſum imperium cum</hi> Jove — no, not that <hi>Jove</hi> himſelf ſhould rival his <hi>Leviathan.</hi>
+            </p>
+            <p>He founds his Politicks upon his Phi<g ref="char:EOLhyphen"/>ſicks; therefore, in the firſt place, we are to believe that there is nothing in the Univerſe but <hi>meer Body;</hi> neither are we to think, to reaſon or to fancy ought of a future State, of Souls to be ſaved, nor to have the fear of God before our eyes; for then (as he calls it) we ſhall be <hi>fright<g ref="char:EOLhyphen"/>ed with Spirits into Rebellion.</hi>
+            </p>
+            <p>And that we may not be inclined to theſe vain imaginations, he fairly pre<g ref="char:EOLhyphen"/>ſcribes, that the people may not be ſuf<g ref="char:EOLhyphen"/>fered
+<pb n="61" facs="tcp:110769:34"/>to read (he names not <hi>Calvin</hi> and <hi>Beza,</hi> but) <hi>Ariſtotle, Plato, Seneca, Ci<g ref="char:EOLhyphen"/>cero;</hi> nor the Greek and Latin Hiſtories; nay, all Greek and Latin are peſtilent and dangerous; and thus the Univerſi<g ref="char:EOLhyphen"/>ties are the <hi>very Core of Rebellion.</hi>
+            </p>
+            <p>Nor is this any Paradox, or ſally of his particular wit; 'tis what <hi>Machiavil,</hi> and before them <hi>Ariſtotle</hi> had taught us, that to preſerve an Abſolute Power, all publick Schools muſt of neceſſity be put down. Thus we ſee how much the Pa<g ref="char:EOLhyphen"/>pal Tyranny is ſupported by their Inqui<g ref="char:EOLhyphen"/>ſition. Thus in <hi>Turky</hi> are Letters diſ<g ref="char:EOLhyphen"/>countenanced. And in <hi>Moſcovy</hi> it ſuffi<g ref="char:EOLhyphen"/>ces, that God and the great Duke have all the knowledge to themſelves.</p>
+            <p>And it is not enough that the people be no wiſer, but they muſt not be per<g ref="char:EOLhyphen"/>mitted to be ſo good-natured as Cattel that Herd together. Their Morals muſt be corrupted, and their courſe of Ho<g ref="char:EOLhyphen"/>neſty and fair dealing muſt be broken, leſt it might produce a mutual truſt and correſpondence amongſt them; which in the end would be pernicious to the Commonwealth.</p>
+            <pb n="62" facs="tcp:110769:35"/>
+            <p>'Tis agreed alſo, that Courage is not a vertue for Subjects, under this ſort of Government;<note n="(k)" place="margin">Hobs.</note> 
+               <hi>The leſs they dare, the better it is, both for the Commonwealth, and for themſelves.</hi> Thus the Perſians were qualified for the better Subjects, when an hundred <hi>Free<g ref="char:EOLhyphen"/>holders</hi> of <hi>Greece</hi> were wont to beat ten thouſand of them.</p>
+            <p>
+               <hi>Plato</hi> had the notion of making a Go<g ref="char:EOLhyphen"/>vernment happy by a King-Philoſopher; and <hi>Hobs</hi> certainly (for theſe parts of <hi>Eu<g ref="char:EOLhyphen"/>rope</hi>) purſues an <hi>Idea</hi> as unpracticable: endeavouring to make the Subjects all Aſſes.</p>
+            <p>Some, for want of better Topicks, draw an Argument from Antiquity, that Monarchs were abſolute before they were limited. But the ſame reaſon will hold likewiſe againſt all Laws; for in thoſe days that Kings were without Li<g ref="char:EOLhyphen"/>mits, the Subjects were without Laws, till Experience and Evil Manners taught the World by Civil Prudence and Art, to preſerve nature in its primitive perfecti<g ref="char:EOLhyphen"/>on and integrity.</p>
+            <p>Some would ſet Monarchs above all
+<pb n="63" facs="tcp:110769:35"/>humane caution and policy, by vertue of ſome Expreſſions in old Poets: as in <hi>Cal<g ref="char:EOLhyphen"/>limachus,</hi> that <hi>Kings are from</hi> Jupiter; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Which may be an<g ref="char:EOLhyphen"/>ſwered by that of <hi>Aratus,</hi> cited by St. <hi>Paul,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>We alſo are his Off-ſpring.</hi>
+            </p>
+            <p>
+               <hi>Homer</hi> tells us that <hi>Jupiter</hi> gave <hi>Aga<g ref="char:EOLhyphen"/>memnon the Sceptre and the Laws.</hi> But <hi>Homer</hi> may be interpreted by <hi>Homer.</hi> When firſt he had occaſion to mention that Sceptre, he explains the matter thus: ſays he, Vulcan, <hi>as a curious piece of his Workmanſhip, gave this Sceptre to</hi> Jupi<g ref="char:EOLhyphen"/>ter. Jupiter <hi>gave it</hi> (as Kings give a white Staff to a Treaſurer or Chamber<g ref="char:EOLhyphen"/>lain) <hi>to</hi> Mercury. Mercury <hi>gave it to</hi> Pelops. Then Pelops <hi>left it in ſucceſſion to</hi> Thyeſtes. Thyeſtes <hi>left it to</hi> Atreus; <hi>and</hi> Atreus <hi>left it to</hi> Agamemnon. So we find a thing may be ſaid to be given in ſeveral ſenſes.</p>
+            <p>For the Laws that accompanied the Sceptre, <hi>Hom.</hi> tells not whether he meant the Legiſlation, or the Execution of the Laws; but <hi>Ariſtotle</hi> may inform us, that when <hi>Agamemnon</hi> aſſumes to himſelf a<g ref="char:EOLhyphen"/>ny
+<pb n="64" facs="tcp:110769:36"/>abſolute Power, he ſpeaks as a Gene<g ref="char:EOLhyphen"/>ral in the Field, and not as King of <hi>La<g ref="char:EOLhyphen"/>cedaemon.</hi>
+            </p>
+            <p>Others there be, who having ſtumbled on ſome Metaphor, or Poetical Simile, where God and the King are compared together, think it may as well hold good in Politicks; and never leave ſtraining, till they drive it thorough all the incom<g ref="char:EOLhyphen"/>municable Attributes; nor is there any end to their Frenzy. Some of the Em<g ref="char:EOLhyphen"/>perors have checked their Flatterers with that Verſe in <hi>Homer.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>;</l>
+               </lg>
+               <lg>
+                  <l>I am no God, why doſt thou liken me to the Immortal.</l>
+               </lg>
+            </q>
+            <p>But of the two (ſay theſe Antipoliti<g ref="char:EOLhyphen"/>tians) an abſolute Monarch is more like to God than a limited.</p>
+            <p>Which might be true, if Goodneſs did as neceſſarily accompany their Greatneſs. The Heathens, in their No<g ref="char:EOLhyphen"/>tion of God, placed Goodneſs before Greatneſs, <hi>optimus maximus.</hi> Now the
+<pb n="65" facs="tcp:110769:36"/>buſineſs of Policy is to <hi>Tack</hi> Goodneſs to Power; it gives a Monarch the power to do all the good whereof his nature is capable. But theſe are not content, unleſs he had the power likewiſe of doing evil; which is to be unlike God, and which power cannot be affirmed of God with<g ref="char:EOLhyphen"/>out Blaſphemy. <hi>Lucifer,</hi> and thoſe o<g ref="char:EOLhyphen"/>ther unhappy Angels had that power, and ſunk beneath the burthen: Is there more perfection of Nature in an earthly Monarch? or is there ſome promiſe, or propheſie to ſupport him under the weight, that he ſhall not thereby plunge downright into Tyranny, and ſo loſe that bright and Godlike reſemblance, which diſtinguiſhed him from other men? In effect, by making a Monarch unlimited, inſtead of Deifying, they make him a Devil.</p>
+            <p>For the Texts of Holy Scripture ſo of<g ref="char:EOLhyphen"/>ten applied on theſe occaſions, few that are ingenuous can urge them; and few that have ſenſe, but diſcern the Sophiſtry and abuſe. One may there find the <hi>Tribe</hi> of <hi>Judah,</hi> but not a word of the <hi>Mero<g ref="char:EOLhyphen"/>vingians</hi> or <hi>Charlians.</hi> And if there were
+<pb n="66" facs="tcp:110769:37"/>ſome temporal Monarchy to be eſta<g ref="char:EOLhyphen"/>bliſhed from Scripture, the Pope moſt certainly would have it all. It was Chriſt that ſaid, <hi>To me is given all the power in heaven and upon earth.</hi> And who can make out their pretenſions from Chriſt, by ſuch a long Chain of Succeſſion, but the Pope? What though Chriſt ſaid, <hi>My Kingdom is not of this world;</hi> by <hi>is not,</hi> is meant, <hi>is not</hi> yet; that is, <hi>not</hi> till <hi>Conſtantine</hi>'s time: and then comes the Pope into full poſſeſſion of all, both Spiritual and Temporal Dominion. It was not ſaid, <hi>Cum hâc Petrâ,</hi> but <hi>Super hanc Petram.</hi>— But leaving theſe <hi>hocus-pocus</hi> Arguments to the Jeſuits, it may only be here remembred what long ago <hi>Demoſthenes</hi> obſerved concerning <hi>Philip</hi> of <hi>Macedon;</hi> that, to ſerve a turn, the Roguie Prieſts made, even the O<g ref="char:EOLhyphen"/>racles <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to Philippize.</hi>
+            </p>
+            <p>But indeed, this <hi>Divine Right</hi> may be a <hi>Hercules</hi> amongſt the Jeſuits, when backed with the Inquiſition. And we may allow Monarchs to be Gods, for want of better, in <hi>Hobs</hi>'s State of Igno<g ref="char:EOLhyphen"/>rance and Atheiſm. As in <hi>Aſia, Alexan<g ref="char:EOLhyphen"/>der</hi>
+               <pb n="67" facs="tcp:110769:37"/>paſſed well enough for the Son of <hi>Jupiter Hammon.</hi>
+            </p>
+            <p>The <hi>Politicks</hi> of <hi>France</hi> ſay, that <hi>The French Government has nothing of the Barbarian or Deſpotick in it; but is of that kind which is called Oeconomick, where the King has an Abſolute Power in his State, as a Father has in his Family.</hi> Which Notion is very much in vogue of late; but how they find this Abſolute Power in a Family, is not eaſily to be imagined: take the moſt ſimple Family, as <hi>Heſiod</hi> deſcribes it; a <hi>Man,</hi> and his <hi>Wife,</hi> with the <hi>Oxe,</hi> their faithful Servant; yet it is a ſort of mix'd Government: there is ſenſibly an Ariſtocracy in it; the Wife is the Man's Fellow, his Peer, his Mate, his Conſort, in all Civilized Nations; and ſhares the Government ſo far as ca<g ref="char:EOLhyphen"/>pable by her Education: ſometimes has more than her ſhare; and then it is cal<g ref="char:EOLhyphen"/>led <hi>Gynaecocracy,</hi> or Woman's Rule. Amongſt the <hi>Barbarians</hi> indeed, as well in <hi>Ariſtotles</hi> time, as now, the Wives were in the nature of Servants, but no<g ref="char:EOLhyphen"/>thing there is to be called Oeconomy, but all Barbarity.</p>
+            <pb n="66" facs="tcp:110769:38"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="67" facs="tcp:110769:38"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="68" facs="tcp:110769:39"/>
+            <p>Beſides, in this caſe, there is ſuch a thing as a Divorce, which may ſet the woman on her own legs again, and ſo the good man be depoſed, if he chance to be impotent, and cannot anſwer the ends of Marriage. And yet Marriage is of <hi>Divine Right.</hi>
+            </p>
+            <p>Neither needed the Law-makers in all Ages have taken care to encourage young men to Matrimony, if ſuch a goodly Dominion were to be got by it.</p>
+            <p>Then upon the Account of Children, <hi>Bodin</hi> indeed would not ſtick, even, with old <hi>Saturn,</hi> to eat his Off-ſpring; but in this horrid Doctrine few, I hope, are his followers. <hi>Poteſtas patria debet in pietate, non in atrocitate conſiſtere,</hi> ſay the Civilians.</p>
+            <p>
+               <hi>Moſes</hi> compares the Office of a King to that of Parents; not by reaſon of any Abſolute Power, but of the Charge.<note n="(a)" place="margin">Numb. cap. <hi>11.</hi>
+               </note> 
+               <hi>Why layeſt thou</hi> (ſays he to God Almighty) <hi>the burden of all this people upon me? have I conceived all this people? have I begotten them?</hi>
+            </p>
+            <p>Thus have I anſwered whatever I
+<pb n="69" facs="tcp:110769:39"/>could judge has by any body been mate<g ref="char:EOLhyphen"/>rially urged for this African Monſter, this <hi>Demigorgon</hi> of <hi>Abſolute Power.</hi> Which ſeems plainly inconſiſtent with either Nature or Policy, Reaſon or Re<g ref="char:EOLhyphen"/>ligion, Civility or Humanity. And it is not without good ground that its Champions deſpair it ever ſhould obtain with us, ſo long as Greek and Latin, and the Claſſick <hi>Authors</hi> paſs free from the Inquiſition: or till ſuch time as the <hi>Great Turk</hi> indeed threatens us from the Neighbour-ſhoar; or ſome new <hi>Tamber<g ref="char:EOLhyphen"/>lane,</hi> with an Inundation of Barbariſm overwhelms us.</p>
+            <p>But to entangle the matter, and make the notion of mixt Monarchy ſeem, as it were, a little abſurd; theſe Aſſertors of <hi>Abſolute Power,</hi> with much ignorance, or much ſophiſtry, ſo contrive to divide the Soveraignty, that each ſhare does in effect imply the whole: whenas there may be found ſeveral ways without any of that pretended difficulty. <hi>Bodin</hi> grants that the Conſtitution may be Mo<g ref="char:EOLhyphen"/>narchical, and the Adminiſtration Ari<g ref="char:EOLhyphen"/>ſtocraticalor Popualr. Which goes very
+<pb n="70" facs="tcp:110769:40"/>far towards the overthrowing of all his Syſteme; and, certainly, is a contradi<g ref="char:EOLhyphen"/>ction of what he ſo laboured to maintain: for this was always accounted a dividing of the Soveraignty.</p>
+            <p>Thus in the Roman Commonwealth, the <hi>Power</hi> was in the People, and the <hi>Execution</hi> in the Conſuls (which Office of the Conſuls, <hi>Polybius</hi> calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Kingly and Monarchical</hi>) add to theſe the <hi>Authority</hi> of the Senate, and then we have the ſeveral Powers of the <hi>Three States</hi> in the Roman Common<g ref="char:EOLhyphen"/>wealth; The People <hi>commanded,</hi> the Se<g ref="char:EOLhyphen"/>nate <hi>conſented,</hi> and the Conſuls <hi>executed.</hi>
+            </p>
+            <p>In like manner, where Monarchy is predominant, after the Modern Style, the People may be ſaid to deſire or peti<g ref="char:EOLhyphen"/>tion, the Nobles to conſent, the King to have the Conduct and Command of the Executive Power. Shall not then the Monarch have his Elbows at liberty, but ſit idle till the People and Lords, with their Deſires and Conſents, have concert<g ref="char:EOLhyphen"/>ed matters for him? No ſuch reſtraint follows; all the Laws and Cuſtoms of a Nation are qualified with the deſire of
+<pb n="71" facs="tcp:110769:40"/>the People, and conſent of the Nobles' and all the ordinary Power requiſite for the good and ſupport of the Government is alſo implicitely ſo qualified at the Mo<g ref="char:EOLhyphen"/>narchs diſcretion, till ſomething in par<g ref="char:EOLhyphen"/>ticular appear expreſly to the contrary. Upon this Account the French ſay that, <hi>Mandement Royal, &amp; Volunte du Roy; The King's Commands, and the King's Will,</hi> are not his Perſonal Will, and his Perſonal Commands; but thoſe that ac<g ref="char:EOLhyphen"/>cord to Juſtice, and to the Laws: of which (that remnant of the Peers and Po<g ref="char:EOLhyphen"/>pular State) the Parliament are Judges. Therefore his Will &amp; Commands come always before them to be examined, and there to be emologated and approved e'er they take effect.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
